@@ -6,15 +6,20 @@
 
 ## 핵심 스터디 결과물
 
-| | 일자  | 발표자 | 주제 |
-|-|------|------|------|
-|1| 1/2  | 이도경 | [마이크로 프론트엔드의 개념과 사례 공유](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w01/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md) |
-|2| 1/9  | 박은식 | [웹뷰에서 톡백/보이스오버 대응하기](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w02/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md) |
-|3| 1/16 | 도혜원 | [자바스크립트 패키지 매니저](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w03) |
-|4| 1/23 | 박소영 | [Git Submodule](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w04) |
-|5| 1/30 | 이하은 | react-query |
-|6| 2/6  | 정수현 | PWA |
-|7| 2/13 | 이지훈 | |
+|  | 일자  | 발표자 | 주제 |
+|--|------|------|------|
+| 1| 1/2  | 이도경 | [마이크로 프론트엔드의 개념과 사례 공유](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w01/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md) |
+| 2| 1/9  | 박은식 | [웹뷰에서 톡백/보이스오버 대응하기](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w02/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md) |
+| 3| 1/16 | 도혜원 | [자바스크립트 패키지 매니저](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w03) |
+| 4| 1/23 | 박소영 | [Git Submodule](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w04) |
+| 5| 1/30 | 이하은 | react-query |
+| 6| 2/6  | 정수현 | PWA |
+| 7| 2/13 | 이지훈 | |
+| 8| 2/20 | 이도경 | |
+| 9| 2/27 | 박은식 | |
+|10| 3/5  | 도혜원 | |
+|11| 3/12 | 박소영 | |
+|12| 3/19 | 이하은 | |
 
 ## 진행방식
 
