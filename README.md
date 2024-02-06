@@ -13,7 +13,7 @@
 | 3| 1/16 | 도혜원 | [자바스크립트 패키지 매니저](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w03) |
 | 4| 1/23 | 박소영 | [Git Submodule](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w04) |
 | 5| 1/30 | 이하은 | [React-Query에 관하여](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w05/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
-| 6| 2/6  | 정수현 | PWA |
+| 6| 2/6  | 정수현 | [PWA](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w06/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 7| 2/13 | 이도경 | Back/foward cache |
 | 8| 2/20 | 이지훈 | |
 | 9| 2/27 | 박은식 | |
