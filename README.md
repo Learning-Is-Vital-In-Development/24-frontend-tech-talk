@@ -15,7 +15,7 @@
 | 5| 1/30 | 이하은 | [React-Query에 관하여](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w05/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 6| 2/6  | 정수현 | PWA |
 | 7| 2/13 | 이지훈 | |
-| 8| 2/20 | 이도경 | |
+| 8| 2/20 | 이도경 | Back/foward cache |
 | 9| 2/27 | 박은식 | |
 |10| 3/5  | 도혜원 | |
 |11| 3/12 | 박소영 | |
