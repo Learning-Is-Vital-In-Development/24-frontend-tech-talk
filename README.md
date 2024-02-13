@@ -15,11 +15,11 @@
 | 5| 1/30 | 이하은 | [React-Query에 관하여](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w05/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 6| 2/6  | 정수현 | [PWA](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w06/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 7| 2/15 | 이도경 | Back/foward cache |
-| 8| 2/22 | 박은식 | 주제... |
-| 9| 2/29 | 도혜원 | |
-|10| 3/7  | 박소영 | |
+| 8| 2/22 | 박은식 | canvas에서 애니메이션 다루기 |
+| 9| 2/29 | 도혜원 | svg 태그 |
+|10| 3/7  | 박소영 | electron |
 |11| 3/14 | 이하은 | |
-|12| 3/21 | 정수현 | |
+|12| 3/21 | 정수현 | react-router-dom의 loader와 next/link 비교 |
 
 ## 진행방식
 
