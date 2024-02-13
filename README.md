@@ -14,12 +14,12 @@
 | 4| 1/23 | 박소영 | [Git Submodule](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w04) |
 | 5| 1/30 | 이하은 | [React-Query에 관하여](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w05/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 6| 2/6  | 정수현 | [PWA](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w06/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
-| 7| 2/13 | 이도경 | Back/foward cache |
-| 8| 2/19 | 박은식 | 주제... |
-| 9| 2/26 | 도혜원 | |
-|10| 3/4  | 박소영 | |
-|11| 3/11 | 이하은 | |
-|12| 3/18 | 정수현 | |
+| 7| 2/15 | 이도경 | Back/foward cache |
+| 8| 2/22 | 박은식 | 주제... |
+| 9| 2/29 | 도혜원 | |
+|10| 3/7  | 박소영 | |
+|11| 3/14 | 이하은 | |
+|12| 3/21 | 정수현 | |
 
 ## 진행방식
 
