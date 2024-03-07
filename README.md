@@ -16,7 +16,7 @@
 | 6| 2/6  | 정수현 | [PWA](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w06/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf) |
 | 7| 2/15 | 이도경 | [Back/foward cache](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w07/%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.md) |
 | 8| 2/29 | 박은식 | [canvas에서 애니메이션 다루기](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w08/%EB%85%B8%ED%8A%B8.md) |
-| 9| 3/7  | 정수현 | hygen |
+| 9| 3/7  | 정수현 | Code Generator |
 | 9| 3/14 | 도혜원 | svg 태그 |
 |10| 3/21 | 박소영 | electron |
 |11| 3/28 | 이하은 | |
