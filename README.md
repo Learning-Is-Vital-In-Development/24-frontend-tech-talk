@@ -19,7 +19,7 @@
 | 9| 3/7  | 정수현 | [Code Generator](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w09) |
 | 9| 3/14 | 도혜원 | [svg 태그](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w10) |
 |10| 3/21 | 박소영 | electron |
-|11| 3/28 | 이하은 | |
+|11| 3/28 | 이하은 | React19 |
 
 ## 진행방식
 
