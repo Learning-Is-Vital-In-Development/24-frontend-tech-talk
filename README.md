@@ -17,9 +17,9 @@
 | 7| 2/15 | 이도경 | [Back/foward cache](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w07) |
 | 8| 2/29 | 박은식 | [canvas에서 애니메이션 다루기](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w08) |
 | 9| 3/7  | 정수현 | [Code Generator](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w09) |
-| 9| 3/14 | 도혜원 | [svg 태그](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w10) |
-|10| 3/21 | 박소영 | [electron](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w11) |
-|11| 3/28 | 이하은 | React 19 |
+|10| 3/14 | 도혜원 | [svg 태그](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/blob/main/w10) |
+|11| 3/21 | 박소영 | [electron](https://github.com/Learning-Is-Vital-In-Development/24-frontend-tech-talk/tree/main/w11) |
+|12| 3/28 | 이하은 | React 19 |
 
 ## 진행방식
 
